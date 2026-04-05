@@ -1,0 +1,34 @@
+{
+  "users": [
+    [
+      "9T_7kH_rrnIZJN12AAAB",
+      {
+        "id": "9T_7kH_rrnIZJN12AAAB",
+        "username": "User_2928",
+        "discriminator": 6328,
+        "avatar": "https://ui-avatars.com/api/?name=U&background=e7f752&color=fff"
+      }
+    ]
+  ],
+  "servers": [
+    [
+      "GLOBAL",
+      {
+        "id": "GLOBAL",
+        "name": "Global Pink Server",
+        "channels": [
+          {
+            "id": "general",
+            "name": "general"
+          }
+        ],
+        "members": [
+          "9T_7kH_rrnIZJN12AAAB"
+        ],
+        "messages": {
+          "general": []
+        }
+      }
+    ]
+  ]
+}
